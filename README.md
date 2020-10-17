@@ -54,16 +54,13 @@
 - [How To Make Responsive Website | Animated Hamburger Menu | HTML & CSS | Step By Step Tutorial 2020](https://www.youtube.com/watch?v=nME3fE3c9Qw)
 <!-- YOUTUBE:END -->
 
-➡️ [more videos...](https://youtube.com/codestackr)
+➡️ [more videos...](https://www.youtube.com/c/Captainsj/videos)
 
 ---
 
-<details>
   <summary>GitHub Stats</summary>
 
   <img align="left" alt="Najmul-Hasan-Sobuj GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Najmul-Hasan-Sobuj" />
-
-</details>
 
 [website]: http://najmulhasan.info/
 [twitter]: #
