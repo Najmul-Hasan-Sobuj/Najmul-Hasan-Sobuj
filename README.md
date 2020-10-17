@@ -58,9 +58,12 @@
 
 ---
 
+<details>
   <summary>GitHub Stats</summary>
 
   <img align="left" alt="Najmul-Hasan-Sobuj GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Najmul-Hasan-Sobuj" />
+
+</details>
 
 [website]: http://najmulhasan.info/
 [twitter]: #
