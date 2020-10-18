@@ -1,5 +1,5 @@
-<h1 align="center">### Hi there, I'm Md: Najmul Hasan👋</h1>
-<h3 align="center">full stack developer</h3>
+<h1 align="center">Hi there, I'm Md: Najmul Hasan👋</h1>
+<h3 align="center">Full Stack Developer</h3>
 <h3 align="center">Studying at Daffodil International University and Continue at Student Life</h3>
 
 
