@@ -1,5 +1,7 @@
 <h1 align="center">### Hi there, I'm Md: Najmul Hasan👋</h1>
+<h3 align="center">full stack developer</h3>
 <h3 align="center">Studying at Daffodil International University and Continue at Student Life</h3>
+
 
 - 🔭 I’m currently working on Designing.
 - 🌱 I’m currently learning Designing.
@@ -12,7 +14,6 @@
 [<img align="left" alt=" | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt=" | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt=" | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
 <br />
 
 ### Languages and Tools:
@@ -57,7 +58,7 @@
 <details>
   <summary>GitHub Stats</summary>
 
-  <img align="left" alt="Najmul-Hasan-Sobuj GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Najmul-Hasan-Sobuj" />
+  <img align="left" alt="Najmul-Hasan-Sobuj GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Najmul-Hasan-Sobuj&show_icons=true&theme=cobalt" />
 
 </details>
 
