@@ -34,7 +34,7 @@
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
- <a href="https://v5.getbootstrap.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/> </a>
+ <a href="https://v5.getbootstrap.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="26px"/> </a>
 <br />
 <br />
 
@@ -55,12 +55,10 @@
 
 ---
 
-<details>
+
   <summary>GitHub Stats</summary>
 
   <img align="left" alt="Najmul-Hasan-Sobuj GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Najmul-Hasan-Sobuj&show_icons=true&theme=cobalt" />
-
-</details>
 
 [website]: http://najmulhasan.info/
 [twitter]: #
