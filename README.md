@@ -1,11 +1,12 @@
-### Hi there, I'm Md: Najmul Hasan👋
+<h1 align="center">### Hi there, I'm Md: Najmul Hasan👋</h1>
+<h3 align="center">Studying at Daffodil International University and Continue at Student Life</h3>
 
 - 🔭 I’m currently working on Designing.
 - 🌱 I’m currently learning Designing.
 - 📫 How to reach me: mail or facebook.
 
 ### Connect with me:
-
+<a href="https://www.facebook.com/mdnajmulhasan.sobuj" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="" width="22px" /></a>
 [<img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt=" | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt=" | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
