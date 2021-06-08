@@ -12,9 +12,9 @@ A Software🌈 and Web developer🎯 from Bangladesh. I'm passionate about Full-
 
 <img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🌱 I’m currently learning NodeJs, Python and ReactJs
-- 👯 I’m looking to collaborate on Python projects and Basic Web Dev stuff
-- 📫 How to reach me: You may follow me on [Instagram](https://www.instagram.com/_the.odist_)
+- 🌱 I’m currently learning Laravel, js and Design
+- 👯 I’m looking to collaborate on Laravel projects and Basic Web Dev stuff
+- 📫 How to reach me: You may follow me on [Facebook](https://www.facebook.com/mdnajmulhasan.sobuj)
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: Jack of all trades , Master of None !
   <br />
