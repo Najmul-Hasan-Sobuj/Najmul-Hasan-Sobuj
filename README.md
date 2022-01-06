@@ -9,6 +9,7 @@ A Software🌈 and Web developer🎯 from Bangladesh. I'm passionate about Full-
 ![age](https://img.shields.io/badge/age-21-blue)
 ![focus](https://img.shields.io/badge/focus-FullStack-brightgreen)
 ![living](https://img.shields.io/badge/living-Dhaka-3c9)
+![followers](https://img.shields.io/github/followers/Najmul-Hasan-Sobuj.svg)
 
 <img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
