@@ -11,7 +11,7 @@ A Software🌈 and Web developer🎯 from Bangladesh. I'm passionate about Full-
 ![living](https://img.shields.io/badge/living-Dhaka-3c9)
 ![followers](https://img.shields.io/github/followers/Najmul-Hasan-Sobuj.svg)
 
-<img width="50%" align="right" alt="Github Image" src="https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" />
+<img width="40%" align="right" alt="Github Image" src="https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" />
 
 - 🌱 I’m currently learning Laravel, js and Design
 - 👯 I’m looking to collaborate on Laravel projects and Basic Web Dev stuff
