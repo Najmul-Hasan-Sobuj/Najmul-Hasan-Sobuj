@@ -56,6 +56,5 @@ A Software🌈 and Web developer🎯 from Bangladesh. I'm passionate about Full-
 [<img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/mdnajmulhasan.sobuj)
 [<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge">](https://)
 
-<a href="https://"><img height="50" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg"></a>
 
 </div>
