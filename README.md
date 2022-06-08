@@ -1,6 +1,6 @@
 ![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
 
-<h1 align="center"> আসসালামু আলাইকুম, I'm Md: Najmul Hasan <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> ! </h1>
+<h1 align="center"> আসসালামু আলাইকুম, I'm Md: Najmul Hasan <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30" width="30"> ! </h1>
 
 <h3 align="center">I'm a Software and Web Developer from Bangladesh ❤</h3>
   
