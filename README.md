@@ -54,6 +54,6 @@ A Software🌈 and Web developer🎯 from Bangladesh. I'm passionate about Full-
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/md-najmul-hasan-/)
 [<img src="https://img.shields.io/badge/youtube-%23000000.svg?&style=for-the-badge&logo=youtube&logoColor=red">](https://www.youtube.com/channel/UCpfBaZLeBB-RCNkIO8x7hDQ)
 [<img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/mdnajmulhasan.sobuj)
-[<img src="https://img.shields.io/badge/Portfolio-%230077B5.svg?&style=for-the-badge">](http://najmulhasan.com/)
+[<img src="https://img.shields.io/badge/Portfolio-%230077B5.svg?&style=for-the-badge&logo=portfolio&logoColor=orange">](http://najmulhasan.com/)
 
 </div>
