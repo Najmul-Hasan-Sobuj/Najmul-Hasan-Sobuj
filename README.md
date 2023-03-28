@@ -39,9 +39,9 @@ I am passionate about full-stack web development. I love to imagine and make it 
 
 ## 🏆 Github Status
 
-<img  src="https://github-readme-stats.vercel.app/api?username=Najmul-Hasan-Sobuj&show_icons=true&theme=dark" width="45%" align="right" >
+<img src="https://github-readme-stats.vercel.app/api?username=Najmul-Hasan-Sobuj&show_icons=true&theme=dark" width="45%" align="right" >
 
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=Najmul-Hasan-Sobuj&show_icons=true&theme=dark" width="45%" >
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Najmul-Hasan-Sobuj&show_icons=true&theme=dark" width="45%" >
 
 <br>
 
