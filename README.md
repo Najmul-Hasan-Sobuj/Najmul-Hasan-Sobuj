@@ -4,12 +4,13 @@
 
 <h3 align="center">I'm a Software and Web Developer from Bangladesh ❤</h3>
   
-I am passionate about full-stack web development. I love to imagine and make it a reality. I like new technology a lot, like to deal with problems. Love exploring scalability issues and improving efficiency and performance.
+I am an enthusiastic full-stack web developer who loves turning ideas into reality. I have a keen interest in new technologies and enjoy tackling complex problems, particularly those related to scalability and performance optimization.
 
 ![age](https://img.shields.io/badge/age-22-blue)
 ![focus](https://img.shields.io/badge/focus-FullStack-brightgreen)
 ![living](https://img.shields.io/badge/living-Dhaka-3c9)
 ![followers](https://img.shields.io/github/followers/Najmul-Hasan-Sobuj.svg)
+![visitor](https://visitcount.itsvg.in/api?id=Najmul-Hasan-Sobuj&icon=1&color=0)
 
 <img width="25%" align="right" alt="Github Image" src="https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" />
 
@@ -37,17 +38,25 @@ I am passionate about full-stack web development. I love to imagine and make it 
 
 <br >
 
-## 🏆 Github Status
+## 🏆 Github Status and
 
-<img src="https://github-readme-stats.vercel.app/api?username=Najmul-Hasan-Sobuj&show_icons=true&theme=dark" width="45%" align="right" >
+<div style="display:flex; width: 100%;">
+  <img src="https://github-readme-stats.vercel.app/api?username=Najmul-Hasan-Sobuj&show_icons=true&theme=dark&hide_border=false" style="flex:1">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Najmul-Hasan-Sobuj&show_icons=true&theme=dark&hide_border=false" style="flex:1">
+</div>
+<div style="display: flex; justify-content: space-between;">
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Najmul-Hasan-Sobuj&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
+  </div>
+  <div>
+    <img src="https://github-profile-trophy.vercel.app/?username=Najmul-Hasan-Sobuj&theme=radical&no-frame=false&no-bg=false&margin-w=4">
+  </div>
+</div>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Najmul-Hasan-Sobuj&show_icons=true&theme=dark" width="45%" >
 
 <br>
 
 <div align="center">
-
-### Show some ❤️ by starring ⭐ some of the repositories!
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/md-najmul-hasan-/)
 [<img src="https://img.shields.io/badge/youtube-%23000000.svg?&style=for-the-badge&logo=youtube&logoColor=red">](https://www.youtube.com/channel/UCpfBaZLeBB-RCNkIO8x7hDQ)
