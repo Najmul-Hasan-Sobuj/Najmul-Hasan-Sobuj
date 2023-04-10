@@ -2,9 +2,10 @@
 
 <h1 align="center"> আসসালামু আলাইকুম, I'm Md: Najmul Hasan <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30" width="30"> ! </h1>
 
-<h3 align="center">I'm a Software and Web Developer from Bangladesh ❤</h3>
-  
-I am an enthusiastic full-stack web developer who loves turning ideas into reality. I have a keen interest in new technologies and enjoy tackling complex problems, particularly those related to scalability and performance optimization.
+<div style="text-align: center;">
+  <h3 style="color: #007bff;">I'm a Software and Web Developer from Bangladesh ❤</h3>
+  <p style="font-size: 1.2em;">I am an enthusiastic full-stack web developer who loves turning ideas into reality. I have a keen interest in new technologies and enjoy tackling complex problems, particularly those related to scalability and performance optimization.</p>
+</div>
 
 ![age](https://img.shields.io/badge/age-22-blue)
 ![focus](https://img.shields.io/badge/focus-FullStack-brightgreen)
@@ -12,7 +13,7 @@ I am an enthusiastic full-stack web developer who loves turning ideas into reali
 ![followers](https://img.shields.io/github/followers/Najmul-Hasan-Sobuj.svg)
 <img src="https://visitcount.itsvg.in/api?id=Najmul-Hasan-Sobuj&icon=1&color=0" width="100" height="20">
 
-<img width="25%" align="right" alt="Github Image" src="https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" />
+<img align="right" width="40%" alt="Github Image" src="https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966">
 
 - 🌱 I’m currently learning **Laravel** and **React js**
 - 👯 I’m looking to collaborate on **Laravel projects** and **Basic Web Dev stuff**
