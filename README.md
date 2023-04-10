@@ -38,12 +38,10 @@ I am an enthusiastic full-stack web developer who loves turning ideas into reali
 
 <br >
 
-## 🏆 Github Status
 | Github Stats | Streak |
 | --- | --- |
 | ![Github Stats](https://github-readme-stats.vercel.app/api?username=Najmul-Hasan-Sobuj&show_icons=true&theme=dark&hide_border=false) | ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Najmul-Hasan-Sobuj&show_icons=true&theme=dark&hide_border=false) |
 
-## Top Languages and Trophy
 | Top Languages | Trophy |
 | --- | --- |
 | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Najmul-Hasan-Sobuj&theme=dark&layout=compact) | ![Trophy](https://github-profile-trophy.vercel.app/?username=Najmul-Hasan-Sobuj&theme=radical&no-frame=false&no-bg=false&margin-w=4) |
@@ -53,5 +51,8 @@ I am an enthusiastic full-stack web developer who loves turning ideas into reali
   <a href="https://www.youtube.com/channel/UCpfBaZLeBB-RCNkIO8x7hDQ" target="_blank"><img src="https://img.shields.io/badge/youtube-%23000000.svg?&style=for-the-badge&logo=youtube&logoColor=red" alt="YouTube"></a>
   <a href="https://www.facebook.com/mdnajmulhasan.sobuj" target="_blank"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a>
   <a href="http://najmulhasan.com/" target="_blank"><img src="https://img.shields.io/badge/portfolio-%230077B5.svg?&style=for-the-badge&logo=portfolio&logoColor=orange" alt="Portfolio"></a>
+  
+  ### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Najmul-Hasan-Sobuj&limit=5&theme=dark&combine_all_yearly_contributions=true)
 </div>
 
