@@ -38,23 +38,15 @@ I am an enthusiastic full-stack web developer who loves turning ideas into reali
 
 <br >
 
-## 🏆 Github Status and
+## 🏆 Github Status
+| Github Stats | Streak |
+| --- | --- |
+| ![Github Stats](https://github-readme-stats.vercel.app/api?username=Najmul-Hasan-Sobuj&show_icons=true&theme=dark&hide_border=false) | ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Najmul-Hasan-Sobuj&show_icons=true&theme=dark&hide_border=false) |
 
-<div style="display:flex; width: 100%;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Najmul-Hasan-Sobuj&show_icons=true&theme=dark&hide_border=false" style="flex:1">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Najmul-Hasan-Sobuj&show_icons=true&theme=dark&hide_border=false" style="flex:1">
-</div>
-<div style="display: flex; justify-content: space-between;">
-  <div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Najmul-Hasan-Sobuj&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
-  </div>
-  <div>
-    <img src="https://github-profile-trophy.vercel.app/?username=Najmul-Hasan-Sobuj&theme=radical&no-frame=false&no-bg=false&margin-w=4">
-  </div>
-</div>
-
-
-<br>
+## Top Languages and Trophy
+| Top Languages | Trophy |
+| --- | --- |
+| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Najmul-Hasan-Sobuj&theme=dark&layout=compact) | ![Trophy](https://github-profile-trophy.vercel.app/?username=Najmul-Hasan-Sobuj&theme=radical&no-frame=false&no-bg=false&margin-w=4) |
 
 <div align="center">
 
