@@ -10,7 +10,7 @@ I am an enthusiastic full-stack web developer who loves turning ideas into reali
 ![focus](https://img.shields.io/badge/focus-FullStack-brightgreen)
 ![living](https://img.shields.io/badge/living-Dhaka-3c9)
 ![followers](https://img.shields.io/github/followers/Najmul-Hasan-Sobuj.svg)
-![visitor](https://visitcount.itsvg.in/api?id=Najmul-Hasan-Sobuj&icon=1&color=0)
+<img src="https://visitcount.itsvg.in/api?id=Najmul-Hasan-Sobuj&icon=1&color=0" width="100" height="20">
 
 <img width="25%" align="right" alt="Github Image" src="https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" />
 
