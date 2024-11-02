@@ -7,7 +7,7 @@
   <p style="font-size: 1.2em;">I am an enthusiastic full-stack web developer who loves turning ideas into reality. I have a keen interest in new technologies and enjoy tackling complex problems, particularly those related to scalability and performance optimization.</p>
 </div>
 
-![age](https://img.shields.io/badge/age-22-blue)
+![age](https://img.shields.io/badge/age-25-blue)
 ![focus](https://img.shields.io/badge/focus-FullStack-brightgreen)
 ![living](https://img.shields.io/badge/living-Dhaka-3c9)
 ![followers](https://img.shields.io/github/followers/Najmul-Hasan-Sobuj.svg)
