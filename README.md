@@ -53,8 +53,9 @@
   <a href="http://najmulhasan.xyz/" target="_blank"><img src="https://img.shields.io/badge/portfolio-%230077B5.svg?&style=for-the-badge&logo=portfolio&logoColor=orange" alt="Portfolio"></a>
 </div>
 
+<div align="center">
 | Top Contributed Repo |
 | --- |
 | ![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=Najmul-Hasan-Sobuj&limit=5&theme=dark&combine_all_yearly_contributions=true) |
-
+</div>
 
