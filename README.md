@@ -12,8 +12,7 @@
 ![living](https://img.shields.io/badge/living-Dhaka-3c9)
 ![followers](https://img.shields.io/github/followers/Najmul-Hasan-Sobuj.svg)
 <img src="https://visitcount.itsvg.in/api?id=Najmul-Hasan-Sobuj&icon=1&color=0" width="100" height="20">
-
-<img align="right" width="40%" alt="Github Image" src="https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966">
+[![calendly](https://img.shields.io/badge/Book_Appointment-4285F4?style=flat&logo=google-calendar&logoColor=white)](https://calendly.com/najmulhasansobuj87/appointment)
 
 - 🌱 I’m currently learning **Laravel** and **React js**
 - 👯 I’m looking to collaborate on **Laravel projects** and **Basic Web Dev stuff**
@@ -54,7 +53,8 @@
   <a href="http://najmulhasan.xyz/" target="_blank"><img src="https://img.shields.io/badge/portfolio-%230077B5.svg?&style=for-the-badge&logo=portfolio&logoColor=orange" alt="Portfolio"></a>
 </div>
 
-| Top Contributed Repo | Random Dev Meme |
-| --- | --- |
-| ![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=Najmul-Hasan-Sobuj&limit=5&theme=dark&combine_all_yearly_contributions=true) | <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/> |
+| Top Contributed Repo |
+| --- |
+| ![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=Najmul-Hasan-Sobuj&limit=5&theme=dark&combine_all_yearly_contributions=true) |
+
 
