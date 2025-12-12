@@ -11,7 +11,6 @@
 ![focus](https://img.shields.io/badge/focus-FullStack-brightgreen)
 ![living](https://img.shields.io/badge/living-Dhaka-3c9)
 ![followers](https://img.shields.io/github/followers/Najmul-Hasan-Sobuj.svg)
-<img src="https://visitcount.itsvg.in/api?id=Najmul-Hasan-Sobuj&icon=1&color=0" width="100" height="20">
 [![calendly](https://img.shields.io/badge/Book_Appointment-4285F4?style=flat&logo=google-calendar&logoColor=white)](https://calendly.com/najmulhasansobuj87/new-meeting)
 
 - 🌱 I’m currently learning **Laravel** and **React js**
